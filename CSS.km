@@ -3,9 +3,261 @@
         "data": {
             "id": "brhym7qttm00",
             "created": 1548379198018,
-            "text": "中心主题"
+            "text": "CSS"
         },
-        "children": []
+        "children": [
+            {
+                "data": {
+                    "id": "brhzuwk3brs0",
+                    "created": 1548382700053,
+                    "text": "选择器",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bri01gexas00",
+                            "created": 1548383213461,
+                            "text": "tag、class、id选择器",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri0a8n07xc0",
+                            "created": 1548383901813,
+                            "text": "分支主题"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri024hx55c0",
+                            "created": 1548383265885,
+                            "text": "后代、兄弟、相邻选择器"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri02metzzc0",
+                            "created": 1548383304881,
+                            "text": "伪类、伪元素选择器"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri0a3i6afs0",
+                            "created": 1548383890637,
+                            "text": "序号选择器"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri030r0z7k0",
+                            "created": 1548383336093,
+                            "text": "属性选择器"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bri044th5s00",
+                    "created": 1548383423312,
+                    "text": "属性"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bri0476xtb40",
+                            "created": 1548383428480,
+                            "text": "字体"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri04cw0k340",
+                            "created": 1548383440880,
+                            "text": "颜色"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bri07ze0q9s0",
+                                    "created": 1548383724950,
+                                    "text": "hex, rgb"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "bri073scxzc0",
+                            "created": 1548383656160,
+                            "text": "背景"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "brhzvm7euqo0",
+                    "created": 1548382755883,
+                    "text": "盒子模型"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bri00ebt9ug0",
+                            "created": 1548383130555,
+                            "text": "margin, padding, border, content"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri00qlcl600",
+                            "created": 1548383157253,
+                            "text": "ie模型，标准模型"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bri04ml2mao0",
+                    "created": 1548383461986,
+                    "text": "显示(display)"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bri057ubhzc0",
+                            "created": 1548383508258,
+                            "text": "行内"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri05c2c0qg0",
+                            "created": 1548383517450,
+                            "text": "块级"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "brhzvq80pa00",
+                    "created": 1548382764627,
+                    "text": "浮动"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bri05klfs400",
+                            "created": 1548383536019,
+                            "text": "左右浮动"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri05mqk1fs0",
+                            "created": 1548383540682,
+                            "text": "清除浮动"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "brhzwxrf1sg0",
+                    "created": 1548382859401,
+                    "text": "定位"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bri039p6p1k0",
+                            "created": 1548383355573,
+                            "text": "static、relative、absolute、fixed定位"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri03lcuxq80",
+                            "created": 1548383380949,
+                            "text": "文档流"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "brhzzx0isio0",
+                    "created": 1548383092867,
+                    "text": "像素单位"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bri000595cw0",
+                            "created": 1548383099684,
+                            "text": "px, rem, em, vh, vw, %"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bri05zc4f4g0",
+                    "created": 1548383568107,
+                    "text": "居中"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bri063tnbmw0",
+                            "created": 1548383577874,
+                            "text": "垂直居中"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri066hasbk0",
+                            "created": 1548383583658,
+                            "text": "水平居中"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bri06gb0lqg0",
+                    "created": 1548383605046,
+                    "text": "overflow"
+                },
+                "children": []
+            }
+        ]
     },
     "template": "right",
     "theme": "fresh-blue-compat",
