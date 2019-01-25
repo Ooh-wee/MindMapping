@@ -3,11 +3,94 @@
         "data": {
             "id": "brhym7qttm00",
             "created": 1548379198018,
-            "text": "中心主题"
+            "text": "HTML"
         },
-        "children": []
+        "children": [
+            {
+                "data": {
+                    "id": "brhzewqvltk0",
+                    "created": 1548381446637,
+                    "text": "DOM"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "brhzfi0mru80",
+                            "created": 1548381492939,
+                            "text": "Document"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "brhzfqbhg4g0",
+                                    "created": 1548381511009,
+                                    "text": "Html"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "brhzg7wkmy00",
+                                            "created": 1548381549290,
+                                            "text": "Head",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "brhzgtvs5y00",
+                                                    "created": 1548381597131,
+                                                    "text": "title"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "brhzgg2lxps0",
+                                            "created": 1548381567069,
+                                            "text": "Body",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "brhziio3gu80",
+                                                    "created": 1548381729450,
+                                                    "text": "layout",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "brhzh0rlcf40",
+                                                            "created": 1548381612115,
+                                                            "text": "footer",
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "brhzh3ufz340",
+                                                            "created": 1548381618818,
+                                                            "text": "header"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
-    "template": "right",
+    "template": "structure",
     "theme": "fresh-blue-compat",
     "version": "1.4.43",
     "id": "brhym7qttm00"
