@@ -1,0 +1,14 @@
+{
+    "root": {
+        "data": {
+            "id": "brhym7qttm00",
+            "created": 1548379198018,
+            "text": "中心主题"
+        },
+        "children": []
+    },
+    "template": "right",
+    "theme": "fresh-blue-compat",
+    "version": "1.4.43",
+    "id": "brhym7qttm00"
+}
