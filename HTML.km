@@ -76,6 +76,22 @@
                                                     "text": "ico"
                                                 },
                                                 "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "bri0iw38vi00",
+                                                    "created": 1548384579775,
+                                                    "text": "charset"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "bri0j0zgo2o0",
+                                                    "created": 1548384590430,
+                                                    "text": "viewport"
+                                                },
+                                                "children": []
                                             }
                                         ]
                                     },
