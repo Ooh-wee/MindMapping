@@ -91,6 +91,31 @@
                                                     "created": 1548384590430,
                                                     "text": "viewport"
                                                 },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1wjlow1k0",
+                                                            "created": 1548388470800,
+                                                            "text": "init-width"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1wmz51so0",
+                                                            "created": 1548388478143,
+                                                            "text": "device-width"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "bri1xbveshc0",
+                                                    "created": 1548388532337,
+                                                    "text": "meta"
+                                                },
                                                 "children": []
                                             }
                                         ]
@@ -143,13 +168,123 @@
                                                             "created": 1548382000589,
                                                             "text": "inilne dom"
                                                         },
-                                                        "children": []
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "bri1w266g8o0",
+                                                                    "created": 1548388432857,
+                                                                    "text": "span"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "bri1w46j3l40",
+                                                                    "created": 1548388437231,
+                                                                    "text": "a"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
                                                     },
                                                     {
                                                         "data": {
                                                             "id": "brhzm2gsntk0",
                                                             "created": 1548382007637,
                                                             "text": "block dom"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "bri1wdxn9fk0",
+                                                                    "created": 1548388458462,
+                                                                    "text": "div"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bri1r9nf6aw0",
+                                            "created": 1548388057316,
+                                            "text": "other",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bri1r31kfgo0",
+                                                    "created": 1548388042934,
+                                                    "text": "frame"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "bri1rkuqddk0",
+                                                    "created": 1548388081702,
+                                                    "text": "style"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1s5t27mg0",
+                                                            "created": 1548388127314,
+                                                            "text": "inner"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1s7uhpu80",
+                                                            "created": 1548388131754,
+                                                            "text": "import"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1s9u77tk0",
+                                                            "created": 1548388136090,
+                                                            "text": "link"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "bri1rqra91k0",
+                                                    "created": 1548388094555,
+                                                    "text": "script"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1rtxqlsg0",
+                                                            "created": 1548388101475,
+                                                            "text": "inner"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1rxqn78w0",
+                                                            "created": 1548388109753,
+                                                            "text": "import"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1s2fmdk80",
+                                                            "created": 1548388119971,
+                                                            "text": "script tag"
                                                         },
                                                         "children": []
                                                     }
@@ -195,12 +330,37 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "data": {
+                            "id": "bri1ve65t9c0",
+                            "created": 1548388380613,
+                            "text": "private prototype"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bri1vj01c1c0",
+                                    "created": 1548388391126,
+                                    "text": "active"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bri1vmcwt1c0",
+                                    "created": 1548388398435,
+                                    "text": "src"
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }
         ]
     },
-    "template": "structure",
+    "template": "right",
     "theme": "fresh-blue-compat",
     "version": "1.4.43",
     "id": "brhym7qttm00"
