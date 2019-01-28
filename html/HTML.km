@@ -1,0 +1,400 @@
+{
+    "root": {
+        "data": {
+            "id": "brhym7qttm00",
+            "created": 1548379198018,
+            "text": "HTML",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "brhzewqvltk0",
+                    "created": 1548381446637,
+                    "text": "DOM",
+                    "layout_bottom_offset": {
+                        "x": 112.99999640782704,
+                        "y": 0.499999984105429
+                    },
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "brhzfi0mru80",
+                            "created": 1548381492939,
+                            "text": "<!DOCTYPE>"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "brhzfqbhg4g0",
+                            "created": 1548381511009,
+                            "text": "Html"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "brhzg7wkmy00",
+                                    "created": 1548381549290,
+                                    "text": "Head",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "brhzmx5wyk00",
+                                            "created": 1548382074459,
+                                            "text": "SEO",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "brhzgtvs5y00",
+                                                    "created": 1548381597131,
+                                                    "text": "title"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "brhzn19ya8w0",
+                                                    "created": 1548382083411,
+                                                    "text": "des"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "brhzn39wvaw0",
+                                                    "created": 1548382087762,
+                                                    "text": "keywords"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "bri1xbveshc0",
+                                            "created": 1548388532337,
+                                            "text": "meta",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "brkpk4xa5pc0",
+                                                    "created": 1548658325030,
+                                                    "text": "charset"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "brkpolgbwuo0",
+                                                    "created": 1548658674467,
+                                                    "text": "http-equiv"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "bri0j0zgo2o0",
+                                                    "created": 1548384590430,
+                                                    "text": "viewport"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1wjlow1k0",
+                                                            "created": 1548388470800,
+                                                            "text": "init-width"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1wmz51so0",
+                                                            "created": 1548388478143,
+                                                            "text": "device-width"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "brkpnwb2x7c0",
+                                            "created": 1548658619730,
+                                            "text": "link",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "brkpo602cmw0",
+                                                    "created": 1548658640832,
+                                                    "text": "css"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "brkpo8gubns0",
+                                                    "created": 1548658646200,
+                                                    "text": "favicon.ico"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "brhzgg2lxps0",
+                                    "created": 1548381567069,
+                                    "text": "Body",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "brhziio3gu80",
+                                            "created": 1548381729450,
+                                            "text": "layout",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "brhzh0rlcf40",
+                                                    "created": 1548381612115,
+                                                    "text": "footer",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "brhzh3ufz340",
+                                                    "created": 1548381618818,
+                                                    "text": "header"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "brhzlsh53j40",
+                                            "created": 1548381985890,
+                                            "text": "normal"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "brhzlz87xig0",
+                                                    "created": 1548382000589,
+                                                    "text": "inilne dom"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1w266g8o0",
+                                                            "created": 1548388432857,
+                                                            "text": "span"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1w46j3l40",
+                                                            "created": 1548388437231,
+                                                            "text": "a"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "brhzm2gsntk0",
+                                                    "created": 1548382007637,
+                                                    "text": "block dom"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "bri1wdxn9fk0",
+                                                            "created": 1548388458462,
+                                                            "text": "div"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "brhzkoily1c0",
+                    "created": 1548381898908,
+                    "text": "prototype"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "brhzl2kvy000",
+                            "created": 1548381929520,
+                            "text": "public prototype",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "brhzkvsz80w0",
+                                    "created": 1548381914772,
+                                    "text": "data"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "brhzljdf9880",
+                                    "created": 1548381966074,
+                                    "text": "hover"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "bri1ve65t9c0",
+                            "created": 1548388380613,
+                            "text": "private prototype"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bri1vj01c1c0",
+                                    "created": 1548388391126,
+                                    "text": "active"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bri1vmcwt1c0",
+                                    "created": 1548388398435,
+                                    "text": "src"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bri1r9nf6aw0",
+                    "created": 1548388057316,
+                    "text": "other",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bri1r31kfgo0",
+                            "created": 1548388042934,
+                            "text": "frame"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bri1rkuqddk0",
+                            "created": 1548388081702,
+                            "text": "style"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bri1s5t27mg0",
+                                    "created": 1548388127314,
+                                    "text": "inner"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bri1s7uhpu80",
+                                    "created": 1548388131754,
+                                    "text": "import"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bri1s9u77tk0",
+                                    "created": 1548388136090,
+                                    "text": "link"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "bri1rqra91k0",
+                            "created": 1548388094555,
+                            "text": "script"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bri1rtxqlsg0",
+                                    "created": 1548388101475,
+                                    "text": "inner"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bri1rxqn78w0",
+                                    "created": 1548388109753,
+                                    "text": "import"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "bri1s2fmdk80",
+                                    "created": 1548388119971,
+                                    "text": "script tag"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "classic",
+    "version": "1.4.43",
+    "id": "brhym7qttm00"
+}
